@@ -1,0 +1,51 @@
+{
+    "image_id": "IMG_2830-1.jpeg",
+    "english_text": [
+        "BLDG CONT CO",
+        "FAX:06-5354242 P0.80X;4724 SHJ.",
+        "TEL:06-5354141",
+        "FAST"
+    ],
+    "english_text_coordinates": [
+        {
+            "top_left": [
+                837,
+                360
+            ],
+            "bottom_right": [
+                1750,
+                555
+            ]
+        },
+        {
+            "top_left": [
+                651,
+                514
+            ],
+            "bottom_right": [
+                1743,
+                662
+            ]
+        },
+        {
+            "top_left": [
+                184,
+                577
+            ],
+            "bottom_right": [
+                650,
+                678
+            ]
+        },
+        {
+            "top_left": [
+                552,
+                413
+            ],
+            "bottom_right": [
+                820,
+                553
+            ]
+        }
+    ]
+}
